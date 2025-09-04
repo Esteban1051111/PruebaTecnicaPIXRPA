@@ -21,7 +21,7 @@ El proyecto contiene tres scripts principales:
 - **PIX RPA** instalado.
 - **MS SQL Server** para la base de datos.
 - Acceso a **OneDrive** mediante HTTP.
-- Llave de **OpenAI** válida para el script de llenado de formularios.
+- Llave de **OpenAI** válida para el script de llenado de formularios "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".
 - Scripts y querys de creación de tablas y procedimientos almacenados incluidos en el repositorio.
 
 ## Pasos para ejecución
